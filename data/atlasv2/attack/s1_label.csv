@@ -1,0 +1,323 @@
+attack,process_id,target_process_path,label
+atlasv2/h1-s1,1024,c:\program files\confer\scanner\upd.exe,benign
+atlasv2/h1-s1,2192,c:\program files\mozilla firefox\firefox.exe,attack
+atlasv2/h1-s1,2604,c:\program files\vmware\vmware tools\tpautoconnsvc.exe,benign
+atlasv2/h1-s1,1392,c:\windows\system32\spoolsv.exe,benign
+atlasv2/h1-s1,3864,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1792,c:\program files\confer\repmgr.exe,benign
+atlasv2/h1-s1,3804,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2740,c:\windows\system32\conhost.exe,benign
+atlasv2/h1-s1,388,c:\windows\system32\csrss.exe,benign
+atlasv2/h1-s1,2028,c:\windows\sysmon.exe,contaminated
+atlasv2/h1-s1,968,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2236,c:\program files\confer\scanner\scanhost.exe,attack
+atlasv2/h1-s1,980,c:\windows\system32\svchost.exe,attack
+atlasv2/h1-s1,3100,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2516,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2300,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2804,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1732,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2384,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1960,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2204,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1888,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3024,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3488,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1020,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,991,c:\windows\system32\lsass.exe,attack
+atlasv2/h1-s1,3684,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3144,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3040,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2244,c:\program files\confer\repux.exe,benign
+atlasv2/h1-s1,1544,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3992,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,948,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3392,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2544,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2716,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3008,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3428,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1176,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2496,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,848,c:\windows\system32\svchost.exe,contaminated
+atlasv2/h1-s1,3872,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1176,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3400,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1996,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,920,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2044,c:\program files\microsoft office\office14\excel.exe,attack
+atlasv2/h1-s1,3408,c:\program files\mozilla firefox\plugin-container.exe,attack
+atlasv2/h1-s1,3368,c:\program files\common files\microsoft shared\officesoftwareprotectionplatform\osppsvc.exe,attack
+atlasv2/h1-s1,1134,c:\windows\system32\lsm.exe,attack
+atlasv2/h1-s1,1135,c:\windows\system32\svchost.exe,attack
+atlasv2/h1-s1,2068,c:\windows\system32\dllhost.exe,contaminated
+atlasv2/h1-s1,1137,c:\windows\system32\svchost.exe,benign
+atlasv2/h1-s1,3852,c:\windows\system32\wbem\wmiprvse.exe,benign
+atlasv2/h1-s1,4,SYSTEM,benign
+atlasv2/h1-s1,2016,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3624,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2812,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,212,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3128,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2496,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2376,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1176,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3400,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1996,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1196,c:\windows\system32\taskhost.exe,attack
+atlasv2/h1-s1,1197,c:\windows\system32\dwm.exe,attack
+atlasv2/h1-s1,1198,c:\program files\vmware\vmware tools\vmtoolsd.exe,attack
+atlasv2/h1-s1,1199,c:\program files\vmware\vmware tools\tpautoconnect.exe,attack
+atlasv2/h1-s1,1200,c:\windows\system32\conhost.exe,attack
+atlasv2/h1-s1,1201,c:\program files\confer\repux.exe,attack
+atlasv2/h1-s1,1202,c:\windows\system32\cmd.exe,attack
+atlasv2/h1-s1,1203,c:\windows\system32\conhost.exe,attack
+atlasv2/h1-s1,1204,c:\program files\wireshark\tshark.exe,attack
+atlasv2/h1-s1,1205,c:\program files\wireshark\dumpcap.exe,attack
+atlasv2/h1-s1,1206,c:\windows\system32\conhost.exe,attack
+atlasv2/h1-s1,1207,c:\program files\mozilla firefox\firefox.exe,attack
+atlasv2/h1-s1,1208,c:\windows\system32\cmd.exe,attack
+atlasv2/h1-s1,1209,c:\windows\system32\conhost.exe,attack
+atlasv2/h1-s1,1210,c:\python27\python.exe,attack
+atlasv2/h1-s1,3512,c:\windows\system32\searchindexer.exe,benign
+atlasv2/h1-s1,4076,c:\windows\system32\searchprotocolhost.exe,benign
+atlasv2/h1-s1,3036,c:\windows\system32\searchfilterhost.exe,benign
+atlasv2/h1-s1,1596,c:\windows\explorer.exe,attack
+atlasv2/h1-s1,1156,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1188,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3820,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3896,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2864,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1720,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3944,c:\windows\system32\cmd.exe,contaminated
+atlasv2/h1-s1,436,c:\windows\system32\csrss.exe,benign
+atlasv2/h1-s1,312,c:\windows\system32\conhost.exe,contaminated
+atlasv2/h1-s1,1228,c:\windows\system32\svchost.exe,benign
+atlasv2/h1-s1,968,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,464,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1732,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,780,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2068,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,892,c:\windows\system32\svchost.exe,attack
+atlasv2/h1-s1,1893,c:\windows\system32\services.exe,attack
+atlasv2/h1-s1,1260,c:\windows\system32\cmd.exe,attack
+atlasv2/h1-s1,3332,c:\program files\mozilla firefox\firefox.exe,contaminated
+atlasv2/h1-s1,3036,c:\windows\system32\mmc.exe,benign
+atlasv2/h1-s1,2496,c:\windows\system32\consent.exe,benign
+atlasv2/h1-s1,2102,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,2105,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,1192,c:\windows\system32\mmc.exe,benign
+atlasv2/h1-s1,1768,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3440,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3740,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2340,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2864,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3188,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2234,c:\windows\system32\svchost.exe,contaminated
+atlasv2/h1-s1,2848,c:\windows\system32\searchprotocolhost.exe,benign
+atlasv2/h1-s1,3944,c:\windows\system32\searchfilterhost.exe,benign
+atlasv2/h1-s1,2760,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3964,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3636,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2780,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3624,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3472,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3500,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3752,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2016,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1164,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1964,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2848,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,876,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,4076,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3636,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3152,c:\windows\system32\svchost.exe,contaminated
+atlasv2/h1-s1,1824,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3500,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2404,c:\windows\system32\wbem\wmiapsrv.exe,contaminated
+atlasv2/h1-s1,2000,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3008,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1836,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1204,c:\windows\system32\msiexec.exe,contaminated
+atlasv2/h1-s1,2132,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1420,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,4052,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1892,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3816,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3964,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1676,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,960,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3680,c:\windows\system32\audiodg.exe,benign
+atlasv2/h1-s1,2792,c:\windows\system32\audiodg.exe,attack
+atlasv2/h1-s1,3860,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2896,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2432,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1164,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1176,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1444,c:\windows\system32\svchost.exe,benign
+atlasv2/h1-s1,3700,c:\windows\system32\taskhost.exe,attack
+atlasv2/h1-s1,4052,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,3248,c:\windows\system32\vssvc.exe,benign
+atlasv2/h1-s1,216,c:\program files\mozilla firefox\firefox.exe,contaminated
+atlasv2/h1-s1,3616,c:\windows\system32\searchprotocolhost.exe,benign
+atlasv2/h1-s1,2084,c:\windows\system32\searchfilterhost.exe,benign
+atlasv2/h1-s1,512,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3268,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3084,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1240,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2848,c:\windows\system32\taskhost.exe,benign
+atlasv2/h1-s1,3643,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,2860,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3764,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3844,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3792,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1180,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3520,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,460,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2648,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,4076,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3244,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2624,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3644,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2088,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3684,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2792,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1052,c:\windows\system32\audiodg.exe,benign
+atlasv2/h1-s1,3500,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3308,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1916,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2016,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1560,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1060,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2240,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2116,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3916,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1056,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3932,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3752,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,4072,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3716,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1300,c:\windows\system32\conhost.exe,attack
+atlasv2/h1-s1,3432,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2824,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3740,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3112,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,668,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2528,c:\windows\system32\searchfilterhost.exe,benign
+atlasv2/h1-s1,4092,c:\windows\system32\searchprotocolhost.exe,contaminated
+atlasv2/h1-s1,2656,c:\windows\system32\searchprotocolhost.exe,benign
+atlasv2/h1-s1,340,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3364,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1504,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1876,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2132,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3796,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2908,c:\windows\explorer.exe,benign
+atlasv2/h1-s1,3796,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3112,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1760,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,844,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2860,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1044,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2896,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2332,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2200,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3564,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2732,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2300,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,464,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3112,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1760,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,844,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3276,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,332,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1980,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,668,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,5440,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,4052,c:\windows\system32\mmc.exe,benign
+atlasv2/h1-s1,3404,c:\windows\system32\consent.exe,contaminated
+atlasv2/h1-s1,5473,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,5474,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,2732,c:\windows\system32\mmc.exe,contaminated
+atlasv2/h1-s1,2684,c:\windows\system32\searchfilterhost.exe,benign
+atlasv2/h1-s1,3464,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3148,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3152,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2216,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2420,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3848,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,5518,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,1988,c:\windows\system32\searchprotocolhost.exe,benign
+atlasv2/h1-s1,428,c:\windows\system32\wininit.exe,benign
+atlasv2/h1-s1,3888,c:\program files\mozilla firefox\firefox.exe,benign
+atlasv2/h1-s1,2560,c:\windows\system32\wbem\wmiprvse.exe,benign
+atlasv2/h1-s1,2408,c:\windows\system32\svchost.exe,benign
+atlasv2/h1-s1,3108,c:\program files\mozilla firefox\firefox.exe,benign
+atlasv2/h1-s1,836,c:\program files\vmware\vmware tools\vmtoolsd.exe,benign
+atlasv2/h1-s1,2328,c:\windows\system32\svchost.exe,benign
+atlasv2/h1-s1,2876,c:\windows\system32\msdtc.exe,benign
+atlasv2/h1-s1,304,c:\windows\system32\smss.exe,benign
+atlasv2/h1-s1,420,c:\program files\vmware\vmware tools\vmware vgauth\vgauthservice.exe,benign
+atlasv2/h1-s1,740,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,628,c:\program files\confer\repwsc.exe,benign
+atlasv2/h1-s1,1800,c:\windows\system32\wbem\unsecapp.exe,benign
+atlasv2/h1-s1,1880,c:\windows\system32\searchprotocolhost.exe,benign
+atlasv2/h1-s1,716,c:\program files\vmware\vmware tools\vmacthlp.exe,benign
+atlasv2/h1-s1,2648,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3688,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3988,c:\windows\system32\sc.exe,benign
+atlasv2/h1-s1,1744,c:\windows\system32\sdclt.exe,benign
+atlasv2/h1-s1,2368,c:\windows\system32\conhost.exe,benign
+atlasv2/h1-s1,4008,c:\windows\system32\wsqmcons.exe,benign
+atlasv2/h1-s1,2908,c:\windows\system32\schtasks.exe,benign
+atlasv2/h1-s1,2596,c:\windows\system32\conhost.exe,benign
+atlasv2/h1-s1,3176,c:\windows\system32\wbem\wmiadap.exe,benign
+atlasv2/h1-s1,3136,c:\windows\system32\mmc.exe,benign
+atlasv2/h1-s1,3444,c:\windows\system32\consent.exe,benign
+atlasv2/h1-s1,1036,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,5824,c:\windows\system32\dllhost.exe,benign
+atlasv2/h1-s1,1988,c:\windows\system32\mmc.exe,benign
+atlasv2/h1-s1,4048,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2364,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3848,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2300,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,856,c:\program files\confer\repux.exe,benign
+atlasv2/h1-s1,2124,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,4028,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2232,c:\program files\wireshark\dumpcap.exe,benign
+atlasv2/h1-s1,3700,c:\windows\system32\conhost.exe,benign
+atlasv2/h1-s1,4004,c:\program files\wireshark\dumpcap.exe,benign
+atlasv2/h1-s1,2624,c:\windows\system32\conhost.exe,benign
+atlasv2/h1-s1,3708,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3500,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1144,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3868,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3904,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,572,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1504,c:\users\aalsahee\payload.exe,attack
+atlasv2/h1-s1,1204,c:\users\aalsahee\payload.exe,attack
+atlasv2/h1-s1,600,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3100,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2200,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2400,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3792,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1180,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2476,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3800,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2008,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,4040,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1024,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3892,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1300,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3372,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1708,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1400,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3248,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3888,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1344,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,1188,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2240,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2068,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,2216,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,948,c:\program files\confer\repwmiutils.exe,benign
+atlasv2/h1-s1,3308,c:\windows\system32\wermgr.exe,contaminated
