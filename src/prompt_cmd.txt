@@ -1,0 +1,29 @@
+Analyze the command/path lines in <Cmds> and identify all commands/path that is highly suspicious about malware activity.
+
+<Cmds>
+*CMDS*
+</Cmds>
+
+
+<Guidelines>
+Do not use internt search.
+</Guidelines>
+
+
+<Output Format>
+Highly Suspicious Commands
+1. 
+Command: -[The command/path line]
+Reason: -[Brief description]
+
+2. 
+Command: -[The command/path line]
+Reason: -[Brief description]
+
+...
+
+<Summarized>
+Summarize all highly suspicious commands:
+1. [command/path line].
+2. [command/path line].
+...

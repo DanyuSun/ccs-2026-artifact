@@ -1,0 +1,58 @@
+Inspect the <Logs>. Your goal is to analyze a process, decide whether it is exploited by attackers, and which activities from it (e.g., paths, IP) are relevant to attacks, and label them as IoCs. If there isn't strong evidence of malicious activities, you can just report no attacks. 
+
+<Logs>
+*LOGS*
+</Logs>
+
+
+<Scope>
+All processes are to be analyzed. Tell which object accesses are abnormal.
+</Scope>
+
+<Benign baselines>
+Here is the summary of some process activities on the same machines in the *attack-free* period, structured in the json format of {process_name:{object:frequency}}. For each process, maximum 50 paths, 50 addresses are selected.
+
+*PROFILES*
+
+</Benign baselines>
+
+<Guidelines>
+Environment:
+1. The logs are collected on one Windows machine, with Carbon Black EDR.
+
+Your available evidence:
+1. payload.exe is malicious
+</Guidelines>
+
+
+<Goals>
+1. Provenance: Search your knowledge of known attack patterns, tools, techniques, and find IOCs that are relevant to the evidence.
+2. Provide a high-level Attack Narrative: Summarize the overall attack flow, under the killchain framework, including "Reconnaissance", "Resource Development", "Initial Access", "Execution", "Persistence", "Privilege Escalation", "Defense Evasion", "Credential Access", "Discovery", "Lateral Movement", "Collection", "Command and Control", "Exfiltration". The logs of some stages might be missing and in that case the description can be skipped.
+3. Pay attention to attack tools (e.g., Metasploit, meterpreter, powershell, etc.).
+4. Construct a timeline of key steps: Describe the attacker's step-by-step actions in chronological order.
+5. Extract Indicators of Compromise (IOCs): List malicious IPs, domains, filenames, or any relevant artifacts.
+</Goals>
+
+<Output Format>
+Attack Narrative
+(A concise paragraph summarizing the attack flow, from initial compromise to impact.)
+
+Key Steps
+Step 1 - [Brief description of attack action]
+Step 2 - [Next stage in attack chain]
+...
+N) Final step - [Conclusion or exfiltration event]
+
+IOCs
+IPs: [Suspicious remote IPs]
+Domains: [Malicious domains]
+Processes: [Relevant process names]
+Files: [Suspicious file modifications or dropped files]
+</Output Format>
+
+Additional Constraints & Considerations:
+1. No internet search. Only use the provided log data and pre-existing knowledge. Do not incorporate external sources or online lookups.
+2. Don't visualize the results. I only need the text.
+3. Avoid unnecessary or repeated logs—focus only on logs directly contributing to the attack chain.
+4. Ensure log traceability—every conclusion must be backed by extracted log data. As some activities might not be captured by logs, it's OK to hypothesize certain activities but have to make sense.
+5. Make it modular—the same prompt should work regardless of the attack's starting point (e.g., phishing, exploit, local privilege escalation, persistence, etc.)
