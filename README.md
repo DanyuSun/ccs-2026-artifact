@@ -1,5 +1,3 @@
-# CCS-2026-#1547
-
 ## Introduction
 
 This codebase reproduces the results of Shield, the proposed host-based intrusion detection system (HIDS). The detection pipeline consists of three stages: (1) data preprocessing, (2) event-level MAE–based attack window identification, and (3) LLM-based intrusion detection that generates structured attack narratives. In addition, the framework provides evaluation at the event, tactic, and story levels to comprehensively assess detection performance.
